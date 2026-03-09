@@ -12,7 +12,7 @@ I am a second-year **Electronics and Communication Engineering student** at MIT 
 |-----------|-------------|---------------|--------------|
 | MIPS32-Processor-RTL | 5-stage pipelined MIPS processor | Pipeline architecture, R/I/J instructions, RTL design | Verilog |
 | RISC-V Flow Setup | Open-source RISC-V design flow setup using OpenROAD | ASIC flow, synthesis, placement & routing | Verilog, OpenROAD |
-| FPGA Experiments | FPGA-based experiments and RTL testbenches | Digital design verification, timing analysis | Verilog, FPGA |
+| UART Tx-Rx | Verilog based UART transmitter abd reciever | UART and its peripharals | Xilinx Vivado, Verilog, FPGA |
 
 ---
 
@@ -22,15 +22,15 @@ I am a second-year **Electronics and Communication Engineering student** at MIT 
 |------|--------|
 | Digital Design | RTL in Verilog, FSMs, timing-aware logic |
 | Chip & FPGA Design | RTL-to-synthesis flow, FPGA implementation, timing verification |
-| Analog VLSI | Transistor-level schematic design, SPICE simulations, post-layout analysis |
+| Analog VLSI design | Cadence Virtuoso, Transistor-level schematic design, SPICE simulations, post-layout analysis |
 
 ---
 
 ## Languages and Tools
 
-- **Programming:** Python, C  
-- **Hardware / VLSI:** Verilog, FPGA, Cadence Virtuoso, SPICE simulation  
-- **Open-Source Tools:** OpenROAD, RISC-V toolchain
+- **Programming:** Python, C /C++
+- **Hardware / VLSI:** Verilog, FPGA, Cadence Virtuoso, SPICE simulation, Xilinx Vivado. 
+- **Open-Source Tools:** OpenROAD/Openlane, RISC-V toolchain.
 
 ---
 
