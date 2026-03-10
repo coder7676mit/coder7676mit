@@ -31,7 +31,3 @@ I am a second-year **Electronics and Communication Engineering student** at MIT 
 - **Programming:** Python, C /C++
 - **Hardware / VLSI:** Verilog, FPGA, Cadence Virtuoso, SPICE simulation, Xilinx Vivado. 
 - **Open-Source Tools:** OpenROAD/Openlane, RISC-V toolchain.
-
----
-
-Focused on **fundamentals, correct design practices, and understanding hardware from first principles**.
