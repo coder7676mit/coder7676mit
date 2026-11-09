@@ -2,7 +2,7 @@
 
 **Pre-final year ECE | Digital & Analog VLSI | Semiconductos and Chip design**
 
-I am a **Electronics and Communication Engineering student**. My interests focus on **digital IC design, RTL development in Verilog, and analog VLSI research**. I am currently working on **RISC-V processor design flows using open-source tools (OpenROAD)** and transistor-level circuit analysis**. My focus is on **building strong fundamentals in digital electronics, computer architecture, and VLSI design**, with emphasis on **synthesizable RTL and practical hardware understanding**.
+I am a **Electronics and Communication Engineering student**. My interests focus on **digital IC design, RTL development in Verilog, and analog VLSI research**. I am currently working on **RISC-V processor design flows using open-source tools (OpenROAD)** and **transistor-level circuit analysis**. My focus is on **building strong fundamentals in digital electronics, computer architecture, and VLSI design**, with emphasis on **synthesizable RTL and practical hardware understanding**.
 
 ---
 
