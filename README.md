@@ -1,6 +1,6 @@
 # Nagendra Kudva
 
-**ECE Sophomore at MIT Manipal | Digital & Analog VLSI | FPGA & RISC-V Systems**
+**Pre-final year ECE | Digital & Analog VLSI | FPGA & RISC-V Systems**
 
 I am a second-year **Electronics and Communication Engineering student** at MIT Manipal. My interests focus on **digital IC design, RTL development in Verilog, FPGA-based systems, and analog VLSI research**. I am currently working on **RISC-V processor design flows using open-source tools (OpenROAD)** and exploring **FPGA implementations and transistor-level circuit analysis**. My focus is on **building strong fundamentals in digital electronics, computer architecture, and VLSI design**, with emphasis on **synthesizable RTL and practical hardware understanding**.
 
